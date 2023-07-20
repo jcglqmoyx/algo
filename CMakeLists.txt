@@ -7,5 +7,10 @@ add_executable(algo template.cpp oj/leetcode/algorithms/301-400/371-380/373/373.
         oj/leetcode/algorithms/401-500/411-420/415/415.cpp
         oj/leetcode/algorithms/2501-2600/2531-2540/2537/2537.cpp
         oj/leetcode/algorithms/101-200/141-150/146/146.cpp
+        oj/leetcode/algorithms/801-900/871-880/874/874.cpp
+        oj/leetcode/algorithms/401-500/431-440/435/435.cpp
+        oj/leetcode/algorithms/2701-2800/2721-2730/2730/2730.cpp
+        oj/leetcode/algorithms/901-1000/911-920/918/918.cpp
+        oj/leetcode/algorithms/701-800/731-740/735/735.cpp
 )
 
