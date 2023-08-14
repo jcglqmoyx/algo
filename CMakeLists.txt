@@ -12,5 +12,14 @@ add_executable(algo template.cpp oj/leetcode/algorithms/301-400/371-380/373/373.
         oj/leetcode/algorithms/2701-2800/2721-2730/2730/2730.cpp
         oj/leetcode/algorithms/901-1000/911-920/918/918.cpp
         oj/leetcode/algorithms/701-800/731-740/735/735.cpp
-)
+        oj/leetcode/algorithms/601-700/671-680/673/673_1.cpp
+        oj/leetcode/algorithms/1401-1500/1491-1500/1499/1499.cpp
+        oj/leetcode/algorithms/2701-2800/2741-2750/2747/2747.cpp
+        oj/leetcode/algorithms/801-900/851-860/860/860.cpp
+        oj/leetcode/algorithms/601-700/681-690/688/688.cpp
+        oj/leetcode/algorithms/1501-1600/1501-1510/1503/1503.cpp
+        oj/leetcode/algorithms/1-100/41-50/42/42.cpp
+        oj/leetcode/algorithms/801-900/891-900/894/894.cpp
+        oj/leetcode/algorithms/2701-2800/2731-2740/2731/2731.cpp
+        oj/leetcode/algorithms/1-100/41-50/50/50.cpp oj/leetcode/algorithms/701-800/771-780/771/771.cpp oj/leetcode/algorithms/2201-2300/2211-2220/2211/2211_1.cpp oj/leetcode/algorithms/2201-2300/2211-2220/2211/2211_2.cpp oj/leetcode/algorithms/801-900/851-860/852/852.cpp oj/leetcode/algorithms/2201-2300/2201-2210/2208/2208.cpp oj/leetcode/algorithms/2201-2300/2261-2270/2269/2569.cpp oj/leetcode/algorithms/1801-1900/1861-1870/1870/1870.cpp oj/leetcode/algorithms/2701-2800/2751-2760/2751/2751.cpp)
 
